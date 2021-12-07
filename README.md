@@ -1,3 +1,3 @@
 # sap
-SAP to SQL conversion
+Go to the ar folder for the dbt script.
 
